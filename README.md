@@ -174,20 +174,9 @@ age_criteria = df['age'] >= 18
 - Need for standardized prone positioning protocols
 - Potential for outcome improvement through early intervention
 
-## 🧰 Technical Stack
-
-### Data Analysis
-- **Python**: Pandas, NumPy, SciPy
-- **Statistics**: Statsmodels, Scikit-learn
-- **Visualization**: Matplotlib, Seaborn, Plotly
-
-### Natural Language Processing
-- **Text Processing**: NLTK, spaCy
-- **ML Models**: Transformers (BERT-based models)
-
 ### Database & Infrastructure
-- **SQL**: PostgreSQL (MIMIC-IV), BigQuery (eICU)
-- **Notebooks**: Jupyter Lab
+- **SQL**: SQL (MIMIC-IV), BigQuery (eICU)
+- **Notebooks**: Jupyter Notebook
 - **Dashboard**: Streamlit
 
 ## 📚 Documentation
